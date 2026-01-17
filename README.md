@@ -100,7 +100,7 @@ AWS CloudWatch is used to:
 ![S3](screenshots/s3.png)
 
 ### RDS Database
-![RDS](screenshots/rds.png)
+![RDS](aws%20screenshort/rds.png)
 
 ### CloudWatch Monitoring
 ![CloudWatch](screenshots/cloudwatch.png)
