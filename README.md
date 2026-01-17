@@ -27,7 +27,7 @@ actually hosted, scaled, secured, and monitored on cloud platforms like AWs.
 - CloudWatch for monitoring and logs
 
 ## Architecture Diagram
-![AWS Architecture](architecture/aws-architecture.png)
+![AWS Architecture](aws-architecture.png.png)
 
 ## Architecture Explanation
 When a user accesses the application, the request first reaches the Application Load
