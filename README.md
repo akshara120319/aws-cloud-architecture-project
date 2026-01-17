@@ -91,7 +91,7 @@ AWS CloudWatch is used to:
 ![EC2](aws%20screenshort/ec2.png)
 
 ### Application Load Balancer
-![ALB](screenshots/alb.png)
+![ALB](aws%20screenshort/loadbalancer.png)
 
 ### Auto Scaling Group
 ![AutoScaling](auto scalting.png)
