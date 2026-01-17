@@ -103,7 +103,7 @@ AWS CloudWatch is used to:
 ![RDS](aws%20screenshort/rds.png)
 
 ### CloudWatch Monitoring
-![CloudWatch](screenshots/cloudwatch.png)
+![CloudWatch](aws%20screenshort/Screenshot%202026-01-17%20235013.png)
 
 ## What I Learned from This Project
 - How real cloud architecture works
