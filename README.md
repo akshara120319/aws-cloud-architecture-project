@@ -97,7 +97,7 @@ AWS CloudWatch is used to:
 ![AutoScaling](aws%20screenshort/auto%20scalting.png)
 
 ### S3 Bucket
-![S3](screenshots/s3.png)
+![S3](aws%20screenshort/s3%20bucket.png)
 
 ### RDS Database
 ![RDS](aws%20screenshort/rds.png)
