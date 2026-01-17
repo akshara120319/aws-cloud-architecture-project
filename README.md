@@ -88,7 +88,7 @@ AWS CloudWatch is used to:
 ## AWS Console Screenshots
 
 ### EC2 Instances
-![EC2](screenshots/ec2.png)
+![EC2](ec2.png)
 
 ### Application Load Balancer
 ![ALB](screenshots/alb.png)
