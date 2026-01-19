@@ -123,7 +123,7 @@ Detailed AWS setup steps are available in the docs folder:
 - [Load Balancer Setup](alb-setup.md)
 - [Auto Scaling Setup](autoscaling-setup.md)
 - [S3 Setup](s3-setup.md)
-- [RDS Setup](docs/rds-setup.md)
+- [RDS Setup](rds-setup.md)
 - [CloudWatch Monitoring](cloudwatch-setup.md)
 
 
