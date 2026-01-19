@@ -120,7 +120,7 @@ and managed using AWS cloud services.
 Detailed AWS setup steps are available in the docs folder:
 
 - [EC2 Setup](ec2-setup.md)
-- [Load Balancer Setup](docs/alb-setup.md)
+- [Load Balancer Setup](alb-setup.md)
 - [Auto Scaling Setup](docs/autoscaling-setup.md)
 - [S3 Setup](docs/s3-setup.md)
 - [RDS Setup](docs/rds-setup.md)
